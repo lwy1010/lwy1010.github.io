@@ -2,7 +2,7 @@
 
 ## CSS
 
-- [轻体验一番 Tailwind CSS 后，来谈谈对它的看法](https://github.com/lwy1010/lwy1010.github.io/issues/2)
+- [Web 深色模式适配简明指南](https://github.com/lwy1010/lwy1010.github.io/issues/3)
 
 ## Other
 
