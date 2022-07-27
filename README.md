@@ -14,6 +14,10 @@
 
 - [微信小程序运行机制和更新机制小总结](https://github.com/lwy1010/lwy1010.github.io/issues/8)
 
+## Node.js
+
+- [create-vite 源码解读](https://github.com/lwy1010/lwy1010.github.io/issues/9)
+
 ## Other
 
 - [前端工程化实践之团队代码规范](https://github.com/lwy1010/lwy1010.github.io/issues/1)
